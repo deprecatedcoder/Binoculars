@@ -8,4 +8,4 @@
 ## Getting Started
 
  * Clone this repo `git clone https://github.com/deprecatedcoder/Binoculars.git`
- * Open `Binoculars` within Unity
+ * Open `Binoculars` project and scene within Unity
